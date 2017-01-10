@@ -1,0 +1,3 @@
+THE DATASET CONTAINS THE FOLLOWING COLUMNS
+
+dispatching_base_number,date,active_vehicles,trips
